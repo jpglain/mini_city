@@ -1,5 +1,7 @@
 # City Simulator
 
+![City Simulator usage clip](./clip.gif "City Simulator Usage Clip")
+
 This program simulates a city. You can add and remove buildings of different
 types, manage your city's finances, and view its statistics.
 
@@ -11,8 +13,6 @@ I am interested in this project because I've played city-building games
 before and wanted to make my own, perhaps with some features that were 
 missing from the ones I played.
 
-![City Simulator usage clip](./clip.gif "City Simulator Usage Clip")
-
 ## Features
 - Create a new building of a certain type and add it to the city.
 - View all the added buildings in the city, both in a textual list view and a graphical map view.
@@ -22,6 +22,7 @@ missing from the ones I played.
 
 ## Structure
 The following UML design diagram gives an overview of the internal structure of the application.
+
 ![UML design diagram](./UML_Design_Diagram.png "UML Design Diagram")
 
 ## Reflection
