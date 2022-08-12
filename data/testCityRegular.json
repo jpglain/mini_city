@@ -1,0 +1,71 @@
+{
+  "name": "Tokyo 2",
+  "population": 10,
+  "money": 500,
+  "attraction": 1.0,
+  "taxRate": 0.05,
+  "map": {
+    "buildings": [
+      {
+        "name": "1",
+        "type": "BUSINESS",
+        "value": 5000,
+        "workers": 8,
+        "capacity": 20,
+        "position": [10, 2]
+      },
+      {
+        "name": "2",
+        "type": "FIRE_HALL",
+        "value": 2000,
+        "trucks": 20,
+        "position": [3, 4]
+      },
+      {
+        "name": "3",
+        "type": "HOSPITAL",
+        "value": 10000,
+        "ambulances": 10,
+        "position": [0, 2]
+      },
+      {
+        "name": "4",
+        "type": "HOUSING",
+        "value": 1000,
+        "residents": 10,
+        "capacity": 50,
+        "position": [2, 5]
+      },
+      {
+        "name": "5",
+        "type": "LANDFILL",
+        "value": 5000,
+        "trucks": 10,
+        "capacity": 10000,
+        "position": [3, 9]
+      },
+      {
+        "name": "6",
+        "type": "PARK",
+        "value": 2000,
+        "valueModifier": 1.5,
+        "position": [3, 10]
+      },
+      {
+        "name": "7",
+        "type": "POWER_PLANT",
+        "value": 10000,
+        "productionRate": 200,
+        "position": [15, 2]
+      },
+      {
+        "name": "8",
+        "type": "SCHOOL",
+        "value": 10000,
+        "students": 500,
+        "capacity": 1000,
+        "position": [5, 7]
+      }
+    ]
+  }
+}

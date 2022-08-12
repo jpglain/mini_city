@@ -1,0 +1,10 @@
+{
+  "name": "Tokyo 2",
+  "population": 100,
+  "money": 1000,
+  "attraction": 1.0,
+  "taxRate": 0.1,
+  "map": {
+    "buildings": []
+  }
+}

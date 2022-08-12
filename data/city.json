@@ -1,0 +1,8 @@
+{
+    "taxRate": 0.05,
+    "attraction": 1,
+    "money": 50000,
+    "name": "New Yoke City",
+    "map": {"buildings": []},
+    "population": 0
+}

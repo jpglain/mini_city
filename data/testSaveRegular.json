@@ -1,0 +1,93 @@
+{
+    "taxRate": 0.1,
+    "attraction": 1,
+    "money": 1000,
+    "name": "Tokyo 2",
+    "map": {"buildings": [
+        {
+            "name": "1",
+            "position": [
+                0,
+                5
+            ],
+            "type": "BUSINESS",
+            "value": 3000,
+            "workers": 30,
+            "capacity": 200
+        },
+        {
+            "name": "2",
+            "position": [
+                16,
+                4
+            ],
+            "trucks": 50,
+            "type": "FIRE_HALL",
+            "value": 6000
+        },
+        {
+            "name": "3",
+            "position": [
+                10,
+                5
+            ],
+            "type": "HOSPITAL",
+            "value": 10000,
+            "ambulances": 40
+        },
+        {
+            "name": "4",
+            "residents": 500,
+            "position": [
+                7,
+                2
+            ],
+            "type": "HOUSING",
+            "value": 2000,
+            "capacity": 2000
+        },
+        {
+            "name": "5",
+            "position": [
+                2,
+                10
+            ],
+            "trucks": 30,
+            "type": "LANDFILL",
+            "value": 5000,
+            "capacity": 1000
+        },
+        {
+            "valueModifier": 1,
+            "name": "6",
+            "position": [
+                1,
+                2
+            ],
+            "type": "PARK",
+            "value": 2000
+        },
+        {
+            "productionRate": 300,
+            "name": "7",
+            "position": [
+                2,
+                3
+            ],
+            "type": "POWER_PLANT",
+            "value": 8000
+        },
+        {
+            "name": "8",
+            "students": 400,
+            "position": [
+                4,
+                5
+            ],
+            "type": "SCHOOL",
+            "value": 20000,
+            "capacity": 2000
+        }
+    ]},
+    "population": 5000
+}
