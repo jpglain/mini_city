@@ -6,7 +6,7 @@ import java.awt.*;
  * Class containing constants related to the user interface that is used by multiple components.
  */
 public class UIConstants {
-    public static final String WINDOW_TITLE = "City Simulator";
+    public static final String WINDOW_TITLE = "Mini City";
     public static final int WIDTH = 1500;
     public static final int HEIGHT = 1250;
     public static final int STANDARD_MARGIN = 15;

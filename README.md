@@ -1,4 +1,4 @@
-# City Simulator
+# Mini City
 
 ![City Simulator usage clip](./clip.gif "City Simulator Usage Clip")
 
