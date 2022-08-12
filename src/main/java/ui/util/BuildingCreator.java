@@ -99,7 +99,7 @@ public class BuildingCreator {
      * @param position The position of the new building.
      */
     public static Park createPark(Position position) {
-        return new Park("Park", 4000, 1.5, position);
+        return new Park("Park", 10000, 1.5, position);
     }
 
     /**
