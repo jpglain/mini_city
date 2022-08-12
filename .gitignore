@@ -1,6 +1,7 @@
 *.class
 *.iml
 workspace.xml
+./data/city.json
 /.idea
 /target
 /out

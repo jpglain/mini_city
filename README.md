@@ -11,6 +11,8 @@ I am interested in this project because I've played city-building games
 before and wanted to make my own, perhaps with some features that were 
 missing from the ones I played.
 
+![City Simulator usage clip](./clip.gif "City Simulator Usage Clip")
+
 ## Features
 - Create a new building of a certain type and add it to the city.
 - View all the added buildings in the city, both in a textual list view and a graphical map view.
