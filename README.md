@@ -35,6 +35,8 @@ I think this could potentially be solved with an observer pattern, although it w
 of how to initialize the components with observers.
  - To add on to the previous point, making City or Map an observable class would probably help reduce coupling 
 within classes in the UI package. At the very least, making some UI classes like MapView observable themselves would
-reduce coupling within the UI.
+reduce coupling within the UI. 
  - Adding more systems that interact with each other to the simulator would make it more interesting.
+This program was originally developed for a school project, which came with a hard time constraint.
+If I had more time, I would add more rules to make the simulation more interesting.
  - Refactoring city statistics out of City into a separate "CityStatistics" class would help improve cohesion.
